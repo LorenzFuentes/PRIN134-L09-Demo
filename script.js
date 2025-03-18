@@ -48,7 +48,7 @@ function animatedInstruction(){
 }
 
 function animatedImg(){
-    const element = document.getElementById("recipe-title");
+    const element = document.getElementById("cake");
     element.classList.add("animate__animated", "animate__lightSpeedInRight");
 }
 
