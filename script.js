@@ -39,7 +39,7 @@ function resetInstructions() {
 
 function animatedIngredients(){
     const element = document.getElementById("title");
-    element.classList.add('animate__animated', 'animate__bounceOutLeft');
+    element.classList.add('animate__animated', 'animate__bounce');
 }
 
 function animatedInstruction(){
