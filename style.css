@@ -41,3 +41,18 @@ ol li {
 .highlight {
   background-color: yellow;
 }
+
+button{
+  padding: 10px;
+  background-color: bisque;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 10px;
+  color: brown;
+}
+
+button:hover{
+  animation: 3s ease-out;
+  background-color: black;
+  color: yellow;
+}
